@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['jean.boussier@gmail.com']
   spec.summary       = %q{A set of Rails patches to speedup applications that do not need thread safety.}
   spec.description   = %q{CAUTION: Use at your own risks.}
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/byroot/monorails'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
