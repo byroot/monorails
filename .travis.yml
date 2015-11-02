@@ -8,3 +8,4 @@ gemfile:
   - gemfiles/Gemfile.ar-4.0
   - gemfiles/Gemfile.ar-4.1
   - gemfiles/Gemfile.ar-4.2
+  - gemfiles/Gemfile.ar-5.0
