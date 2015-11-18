@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+gem 'activerecord', github: 'rails/rails'
+gem 'arel', github: 'rails/arel'
+gem 'thread_hazardous', '~> 0.0.1'
+gem 'bundler', '~> 1.7'
+gem 'rake'
+gem 'rspec'
